@@ -1,0 +1,7 @@
+*
+!*/
+!*.*
+*.vscode
+info.md
+clientest.cpp
+/build
